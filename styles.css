@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Epilogue', sans-serif;
+}
+
+.container{
+    margin: 2em 8em;
+    overflow: hidden;
+    height: 120vh;
+}
+/* Navbar styling */
+.navbar{
+    display: inline;
+}
+#title{
+    position: relative;
+     
+}
+
+#navlinks{
+    position: relative;
+    left: 36.5em;
+    bottom: 2em;
+
+}
+
+nav ul li{
+    display: inline;
+    list-style-type: none;
+    
+    
+}
+nav ul li a{
+    text-decoration: none;
+    padding-left: 1.7em;
+    color: hsl(236, 13%, 42%);
+}
+
+/* upper styling */
+.upper{
+    position: relative;
+    top: 1em;
+}
+
+#homeImg img{
+    width: 59%;
+}
+#heading{
+    position: relative;
+    top: 0.5em;
+    width: 22%;
+}
+#heading h1{
+    font-weight: 800;
+    font-size: 2.5em;
+}
+
+#information{
+    position: relative;
+    left: 20em;
+    bottom: 9em;
+}
+
+#info{
+    position: relative;
+    width: 30%;
+}
+#info p{
+    color:  hsl(236, 13%, 42%);
+   
+}
+
+#read{
+    position: relative;
+    top: 2.5em;
+    padding: 1em;
+    color: whitesmoke;
+    width: 12%;
+    background-color: hsl(5, 85%, 63%);
+}
+#read span{
+    position: relative;
+    left: 1.2em;
+}
+
+#right{
+    position: relative;
+    left: 42em;
+    width: 32%;
+    height: 70vh;
+    bottom: 37em;
+    background-color: hsl(240, 100%, 5%);
+    color: whitesmoke;
+    
+}
+.title1{
+    position: relative;
+    top: 1em;
+    margin: 2em;
+    color: hsl(35, 77%, 62%);
+}
+.topic1{
+    /* width: 26.8%; */
+    margin: 2em;
+    
+}
+.topic1 h3{
+    padding-bottom: 0.5em;
+}
+.topic1 p{
+    color: hsl(236, 13%, 42%);
+}
+
+.topic2{
+    /* width: 27%; */
+    margin: 2em;
+}
+.topic2 h3{
+    padding-bottom: 0.5em;
+}
+.topic2 p{
+    color: hsl(236, 13%, 42%);
+}
+.topic3{
+    width: 88%;
+    margin: 2em;
+}
+.topic3 h3{
+    padding-bottom: 0.5em;
+}
+.topic3 p{
+    color: hsl(236, 13%, 42%);
+}
+
+hr{
+    position: relative;
+    left: 2em;
+    width: 80%;
+}
+
+
+/* lower styling */
+.lower{
+    position: relative;
+    bottom: 30em;
+}
+.retro{
+    position: relative;
+    width: 32%;
+}
+.retroImg img{
+    position: relative;
+    width: 20%;
+}
+.retroInfo{
+    position: relative;
+    left: 6em;
+    bottom: 6em;
+}
+.retroInfo p{
+    width: 60%;
+    color:  hsl(236, 13%, 42%);
+
+}
+
+.laptops{
+    position: relative;
+    left: 21em;
+    bottom: 12em;
+    width: 30%;
+}
+
+.lapImg img{
+    position: relative;
+    width: 20%;
+}
+.lapInfo{
+    position: relative;
+    left: 6em;
+    bottom: 6em;
+}
+
+.lapInfo p{
+    width: 60%;
+    color:  hsl(236, 13%, 42%);
+
+}
+
+.gaming{
+    position: relative;
+    left: 43em;
+    bottom: 23em;
+    width: 30%;
+}
+
+.gamingImg img{
+    position: relative;
+    width: 20%;
+}
+
+.gamingInfo{
+    position: relative;
+    left: 6em;
+    bottom: 6em;
+}
+
+.gamingInfo p{
+    width: 70%;
+    color:  hsl(236, 13%, 42%);
+}
